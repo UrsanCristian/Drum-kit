@@ -83,7 +83,7 @@ function keyPressed(event) {
             break;
 
         default:
-            alert('Wrong Key')
+            console.log('Wrong Key')
             break; 
     }
 
